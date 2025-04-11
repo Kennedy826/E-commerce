@@ -38,7 +38,7 @@ const Banner = () => {
                 {title}
                 <form >
                     <SelectedCategory select={"all"} />
-                    <input type="text" name="search" id="search" placeholder="Search Your Product" value={searchInput} 
+                    <input type="text" name="search" id="search" placeholder="" value={searchInput} 
                     onChange={handleSearch} />
                     <button type="submit">
                     <i className="icofont-search"></i>
