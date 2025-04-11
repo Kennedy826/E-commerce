@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import SharedBanner from '../components/SharedBanner'
 import Data from '../products.json'
-import ProductCards from './productCards';
+import ProductCards from './ProductCards';
 import Pagination from './Pagination';
 import Search from './Search';
 import ShopCategory from './ShopCategory';
