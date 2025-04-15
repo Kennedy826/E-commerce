@@ -1,6 +1,6 @@
 import React from 'react'
 
-const title = "About ShopCart";
+const title = "About RosaSales";
 const desc = "Eduaid theme number one world class university in the world There are student are studing always in this university for all time.";
 const ItemTitle = "Categories";
 const quickTitle = "Quick Links";
@@ -13,11 +13,11 @@ const addressList = [
     },
     {
         iconName: 'icofont-phone',
-        text: '+880 123 456 789',
+        text: '+880 700 000 000',
     },
     {
         iconName: 'icofont-envelope',
-        text: 'info@shopcart.com',
+        text: 'info@rosasales.com',
     },
 ]
 
@@ -106,11 +106,11 @@ const quickList = [
 const tweetList = [
     {
         iconName: 'icofont-twitter',
-        desc: <p>Aminur islam <a href="#">@ShopCart Greetings!  #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
+        desc: <p>Vincent Kavindi <a href="#">@RosaSales Greetings!  #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
     },
     {
         iconName: 'icofont-twitter',
-        desc: <p>Somrat islam <a href="#">@ShopCart Hey! #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
+        desc: <p>Kelvin Khabibi<a href="#">@RosaSales Hey! #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
     },
 ]
 
